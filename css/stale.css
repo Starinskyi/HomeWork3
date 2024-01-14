@@ -255,7 +255,7 @@ p {
 
 /* Clinick section */
 .clinic-section {
-  padding: 63px 100px 88px 100px;
+  padding: 63px 100px 0px 100px;
 }
 
 .section-title {
@@ -346,11 +346,11 @@ p {
 .vector {
   background-image: url("../img/background.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
 }
 
 .accomplishments-section {
-  padding: 88px 190px 48px 190px;
+  padding: 176px 190px 48px 190px;
 }
 
 .accomplishments-item {
