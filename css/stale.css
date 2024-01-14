@@ -190,6 +190,7 @@ p {
   cursor: pointer;
   padding: 16px 32px;
   font-size: 18px;
+  transition: background 0.2s, color 0.2s;
 }
 
 .button:hover {
