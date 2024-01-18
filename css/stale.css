@@ -662,7 +662,6 @@ p {
   padding: 42px 144px;
   background-image: url(../img/background-footer.png);
   background-color: var(--color-primery-dark);
-  overflow-y: auto;
 }
 
 .modal-btn-close {
